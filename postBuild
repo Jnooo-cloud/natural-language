@@ -1,12 +1,3 @@
 #!/bin/bash
-
-# Installiere Jupyter Extensions
-pip install --upgrade pip
-pip install jupyterlab
-pip install ipywidgets
-
-# Aktiviere Jupyter Extensions
-jupyter nbextension enable --py widgetsnbextension --sys-prefix
-
-# Stelle sicher, dass alle Notebooks korrekt funktionieren
-python -c "import numpy, pandas, matplotlib, seaborn, sklearn; print('Alle Pakete erfolgreich importiert!')"
+# Empty postBuild script - all dependencies are handled by environment.yml
+echo "PostBuild completed successfully"
