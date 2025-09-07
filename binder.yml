@@ -1,0 +1,4 @@
+binder:
+  repo: "."
+  branch: "main"
+  environment: environment.yml
