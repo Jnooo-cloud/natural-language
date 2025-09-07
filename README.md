@@ -11,9 +11,9 @@ Dieses Projekt demonstriert die Klassifizierung von Yelp-Bewertungen in 1-Sterne
 
 ## Binder Launch
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jnooo-cloud/natural-language-processing/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jnooo-cloud/natural-language/HEAD)
 
-**Direkter Link:** https://mybinder.org/v2/gh/Jnooo-cloud/natural-language-processing/HEAD
+**Direkter Link:** https://mybinder.org/v2/gh/Jnooo-cloud/natural-language/HEAD
 
 ## Lokale Installation
 
